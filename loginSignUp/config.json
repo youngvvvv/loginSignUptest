@@ -1,0 +1,4 @@
+{
+    "websocketUrl": "wss://12e0-58-234-12-186.ngrok-free.app/",
+    "qrcodeBaseUrl": "https://your-qrcode-base-url.com/loginMobile.html?data="
+}
